@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="linear1" type="id" />
+    <item name="linear2" type="id" />
+    <item name="startBtn" type="id" />
+    <item name="contacts" type="id" />
+    <item name="add_calling_contacts" type="id" />
+    <item name="linear3" type="id" />
+    <item name="dial" type="id" />
+    <item name="map" type="id" />
+    <item name="container" type="id" />
+    <item name="about" type="id" />
+</resources>
